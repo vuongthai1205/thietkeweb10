@@ -127,12 +127,12 @@
                             ? (0, r.jsxs)("div", {
                                   children: [
                                       (0, r.jsx)("img", {
-                                          src: "../static/images/Loader.jpg",
+                                          src: "../static/images/Loader1.gif",
                                           className:
                                               "fixed w-screen opacity-0 md:opacity-100 h-screen top-0 left-0",
                                       }),
                                       (0, r.jsx)("img", {
-                                          src: "../static/images/Loader-Mobile.jpg",
+                                          src: "../static/images/Loader1.gif",
                                           className:
                                               "fixed w-screen h-screen opacity-100 md:opacity-0 top-0 left-0",
                                       }),
