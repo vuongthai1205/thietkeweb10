@@ -1269,7 +1269,7 @@
                                                                                             {
                                                                                                 className:
                                                                                                     "cursor-pointer",
-                                                                                                href: "https://shop.yygang.io/collections/all",
+                                                                                                href: "https://app.uniswap.org/#/swap",
                                                                                                 rel: "noreferrer",
                                                                                                 target: "_blank",
                                                                                                 children:
