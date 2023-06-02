@@ -1855,16 +1855,80 @@
                                                                 : "../static/images/YYG_day.png",
                                                         }),
                                                         (0, r.jsx)("a", {
-                                                            href: "https://shadow-labs.xyz",
+                                                            href: "#",
                                                             rel: "noreferrer",
-                                                            target: "_blank",
+                                                            target: "_self",
                                                             className:
                                                                 "cursor-pointer",
                                                             children: (0,
-                                                            r.jsx)("p", {
-                                                                className:
-                                                                    "max-w-[15%] w-auto mx-auto pt-[130px] pb-[130px] h-auto"
-                                                            }),
+                                                                r.jsxs)(
+                                                                    "div",
+                                                                    {
+                                                                        className:
+                                                                            "h-[20px] w-[90px] md:h-[67px] md:w-[115px] absolute flex flex-row m-auto md:left-[30px] left-[15px] z-[10]",
+                                                                        children:
+                                                                            [
+                                                                                
+                                                                                (0,
+                                                                                r.jsx)(
+                                                                                    "a",
+                                                                                    {
+                                                                                        className:
+                                                                                            "mx-[5px] ",
+                                                                                        href: "https://twitter.com/YinYangERC_",
+                                                                                        rel: "noreferrer",
+                                                                                        target: "_blank",
+                                                                                        children:
+                                                                                            (0,
+                                                                                            r.jsx)(
+                                                                                                "img",
+                                                                                                {
+                                                                                                    src: "../static/images/twitter.svg",
+                                                                                                    className:
+                                                                                                        "cursor-pointer hover:scale-105 h-[20px] w-[20px] my-auto ",
+                                                                                                }
+                                                                                            ),
+                                                                                    }
+                                                                                ),
+                                                                                (0,
+                                                                                r.jsx)(
+                                                                                    "a",
+                                                                                    {
+                                                                                        className:
+                                                                                            "mx-auto ",
+                                                                                        href: "https://t.me/YinYangERCportal",
+                                                                                        rel: "noreferrer",
+                                                                                        target: "_blank",
+                                                                                        children:
+                                                                                            (0,
+                                                                                            r.jsx)(
+                                                                                                "img",
+                                                                                                {
+                                                                                                    src: "../static/images/telegram-fill.png",
+                                                                                                    className:
+                                                                                                        "cursor-pointer hover:scale-105 w-[20px] my-auto ",
+                                                                                                }
+                                                                                            ),
+                                                                                    }
+                                                                                ),
+                                                                                (0,
+                                                                                r.jsx)(
+                                                                                    "img",
+                                                                                    {
+                                                                                        src: ie
+                                                                                            ? "../static/images/sun.svg"
+                                                                                            : "../static/images/moon_icon.svg",
+                                                                                        onClick:
+                                                                                            function () {
+                                                                                                return Ue();
+                                                                                            },
+                                                                                        className:
+                                                                                            "encryptI cursor-pointer hover:scale-105 h-[20px] w-[20px] mx-auto",
+                                                                                    }
+                                                                                ),
+                                                                            ],
+                                                                    }
+                                                                ),
                                                         }),
                                                     ],
                                                 }),
@@ -2896,7 +2960,7 @@
                                                                 (0, r.jsx)(
                                                                     "a",
                                                                     {
-                                                                        href: "https://shadow-labs.xyz",
+                                                                        href: "#",
                                                                         rel: "noreferrer",
                                                                         target: "_blank",
                                                                         className:
