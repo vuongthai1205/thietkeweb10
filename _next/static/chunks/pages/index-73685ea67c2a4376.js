@@ -1246,16 +1246,7 @@
                                                                                     }
                                                                                 ),
                                                                                 (0,
-                                                                                r.jsx)(
-                                                                                    "img",
-                                                                                    {
-                                                                                        className:
-                                                                                            "md:h-[67px] md:w-[108px] h-[0px] w-[0px] left-[10px] absolute z-[10]",
-                                                                                        src: ie
-                                                                                            ? "../static/images/dysto-ing-logo_yellow.png"
-                                                                                            : "../static/images/dysto-logo-black.svg",
-                                                                                    }
-                                                                                ),
+                                                                                r.jsx)
                                                                             ],
                                                                     }
                                                                 ),
@@ -1289,8 +1280,8 @@
                                                                                                             "img",
                                                                                                             {
                                                                                                                 src: ie
-                                                                                                                    ? "../static/images/button_shop_night.svg"
-                                                                                                                    : "../static/images/button_shop_day.svg",
+                                                                                                                    ? "../static/images/button_shop_night.jpg"
+                                                                                                                    : "../static/images/button_shop_day.jpg",
                                                                                                                 className:
                                                                                                                     "cursor-pointer hover:scale-105 h-auto w-auto my-auto ",
                                                                                                             }
@@ -1316,34 +1307,14 @@
                                                                                         "h-[20px] w-[90px] md:h-[67px] md:w-[115px] absolute flex flex-row m-auto md:left-[30px] left-[15px] z-[10]",
                                                                                     children:
                                                                                         [
+                                                                                            
                                                                                             (0,
                                                                                             r.jsx)(
                                                                                                 "a",
                                                                                                 {
                                                                                                     className:
                                                                                                         "mx-[5px] ",
-                                                                                                    href: "https://discord.gg/dysto-inc",
-                                                                                                    rel: "noreferrer",
-                                                                                                    target: "_blank",
-                                                                                                    children:
-                                                                                                        (0,
-                                                                                                        r.jsx)(
-                                                                                                            "img",
-                                                                                                            {
-                                                                                                                src: "../static/images/discord.svg",
-                                                                                                                className:
-                                                                                                                    "cursor-pointer hover:scale-105 h-[15px] w-[20px] my-auto ",
-                                                                                                            }
-                                                                                                        ),
-                                                                                                }
-                                                                                            ),
-                                                                                            (0,
-                                                                                            r.jsx)(
-                                                                                                "a",
-                                                                                                {
-                                                                                                    className:
-                                                                                                        "mx-[5px] ",
-                                                                                                    href: "https://twitter.com/ProjectYinYang",
+                                                                                                    href: "https://twitter.com/YinYangERC_",
                                                                                                     rel: "noreferrer",
                                                                                                     target: "_blank",
                                                                                                     children:
@@ -1353,7 +1324,7 @@
                                                                                                             {
                                                                                                                 src: "../static/images/twitter.svg",
                                                                                                                 className:
-                                                                                                                    "cursor-pointer hover:scale-105 h-[15px] w-[20px] my-auto ",
+                                                                                                                    "cursor-pointer hover:scale-105 h-[20px] w-[20px] my-auto ",
                                                                                                             }
                                                                                                         ),
                                                                                                 }
@@ -1364,7 +1335,7 @@
                                                                                                 {
                                                                                                     className:
                                                                                                         "mx-auto ",
-                                                                                                    href: "https://opensea.io/collection/projectyinyang",
+                                                                                                    href: "https://t.me/YinYangERCportal",
                                                                                                     rel: "noreferrer",
                                                                                                     target: "_blank",
                                                                                                     children:
@@ -1372,9 +1343,9 @@
                                                                                                         r.jsx)(
                                                                                                             "img",
                                                                                                             {
-                                                                                                                src: "../static/images/OS.svg",
+                                                                                                                src: "../static/images/telegram-fill.png",
                                                                                                                 className:
-                                                                                                                    "cursor-pointer hover:scale-105 h-[15px] w-[20px] my-auto ",
+                                                                                                                    "cursor-pointer hover:scale-105 w-[20px] my-auto ",
                                                                                                             }
                                                                                                         ),
                                                                                                 }
@@ -1391,7 +1362,7 @@
                                                                                                             return Ue();
                                                                                                         },
                                                                                                     className:
-                                                                                                        "encryptI cursor-pointer hover:scale-105 h-[15px] w-[20px] mx-auto",
+                                                                                                        "encryptI cursor-pointer hover:scale-105 h-[20px] w-[20px] mx-auto",
                                                                                                 }
                                                                                             ),
                                                                                         ],
@@ -1536,8 +1507,8 @@
                                                                                                             ),
                                                                                                         children:
                                                                                                             ie
-                                                                                                                ? "NIGHTSHADE-XZ45"
-                                                                                                                : "JOIN THE REBELLION",
+                                                                                                                ? "YIN YANG GANG"
+                                                                                                                : "YIN YANG GANG",
                                                                                                     }
                                                                                                 ),
                                                                                             ],
@@ -1559,7 +1530,7 @@
                                                                                                               className:
                                                                                                                   "smalldesktop:text-[16px] text-[12px] desktop:mb-[30px] mb-[13px] font-drukwerk",
                                                                                                               children:
-                                                                                                                  "NIGHTSHADE-XZ45 IS A COMBAT DRUG.",
+                                                                                                                  "YIN YANG GANG IS A COMBAT DRUG.",
                                                                                                           }
                                                                                                       ),
                                                                                                       (0,
@@ -1628,7 +1599,7 @@
                                                                                                                   "text-black smalldesktop:text-[16px] text-[12px] desktop:mb-[30px] mb-[13px] font-drukwerk",
                                                                                                               children:
                                                                                                                   [
-                                                                                                                      "SLAVERY OR REVOLUTION? ",
+                                                                                                                      "YIN OR YANG? ",
                                                                                                                       (0,
                                                                                                                       r.jsx)(
                                                                                                                           "span",
@@ -1649,7 +1620,7 @@
                                                                                                               className:
                                                                                                                   "font-extrabold smalldesktop:text-[16px] text-[12px] mb-[13px] font-roboto",
                                                                                                               children:
-                                                                                                                  "We've been slaves to the regime for too long. It's time to break the cycle.",
+                                                                                                                  "YinYang Token (YINYANG) is a cryptocurrency created to bring a helping hand for people who are less fortunate then others. ",
                                                                                                           }
                                                                                                       ),
                                                                                                       (0,
@@ -1659,7 +1630,7 @@
                                                                                                               className:
                                                                                                                   "font-extrabold smalldesktop:text-[14px] text-[11px] mb-[13px] font-roboto",
                                                                                                               children:
-                                                                                                                  "We live in this dark, dirty city - always being watched, never truly free. We got nothin to do and no-one to believe in but ourselves. There's curfews, gettin roughed up and stripped down for no reason. We get too loud, they make us disappear. This isn't order; it's oppression.",
+                                                                                                                  "Buying YinYang (YNYG) is connecting Yin with Yang. We will balance liquidity between our holders and people who are less fortunate. Our goal is to make everybody smile. We cannot solve all their problems, but perhaps we can make life more comfortable for those in need.",
                                                                                                           }
                                                                                                       ),
                                                                                                       (0,
@@ -1669,7 +1640,7 @@
                                                                                                               className:
                                                                                                                   "mb-[13px] font-normal smalldesktop:text-[12px] text-[11px] font-roboto",
                                                                                                               children:
-                                                                                                                  "During the daytime we do what we can. We ride, we make music, we use the walls as our canvas - see if we can breathe some life back into this hellhole. And in the night - well. We know about the darkness too.",
+                                                                                                                  "✅ 0% BUY / SELL TAX FOREVER ",
                                                                                                           }
                                                                                                       ),
                                                                                                       (0,
@@ -1679,7 +1650,7 @@
                                                                                                               className:
                                                                                                                   "mb-[13px] font-normal smalldesktop:text-[12px] text-[11px] font-roboto",
                                                                                                               children:
-                                                                                                                  "Nightshade-XZ45. That's the key to it all. And we're getting organised, moving it through the entire city. We need foot soldiers. We'll take any recruits we know are dedicated to the cause. It's time to bring some light back to this city. Fight a little fire with fire.",
+                                                                                                                  " ✅RENOUNCED CONTRACT ON LAUNCH",
                                                                                                           }
                                                                                                       ),
                                                                                                       (0,
@@ -1689,9 +1660,29 @@
                                                                                                               className:
                                                                                                                   "mb-[13px] smalldesktop:text-[12px] text-[11px] font-roboto font-normal",
                                                                                                               children:
-                                                                                                                  "Now you know the score, my question is - you want in?",
+                                                                                                                  " ✅ NO TEAM TOKEN ",
                                                                                                           }
                                                                                                       ),
+                                                                                                      (0,
+                                                                                                        r.jsx)(
+                                                                                                            "p",
+                                                                                                            {
+                                                                                                                className:
+                                                                                                                    "mb-[13px] smalldesktop:text-[12px] text-[11px] font-roboto font-normal",
+                                                                                                                children:
+                                                                                                                    " ✅ SAFU CONTRACT ",
+                                                                                                            }
+                                                                                                        ),
+                                                                                                        (0,
+                                                                                                            r.jsx)(
+                                                                                                                "p",
+                                                                                                                {
+                                                                                                                    className:
+                                                                                                                        "mb-[13px] smalldesktop:text-[12px] text-[11px] font-roboto font-normal",
+                                                                                                                    children:
+                                                                                                                        "✅ LP LOCKED",
+                                                                                                                }
+                                                                                                            ),
                                                                                                       (0,
                                                                                                       r.jsxs)(
                                                                                                           "div",
@@ -1758,468 +1749,7 @@
                                                         }
                                                     ),
                                                 }),
-                                                (0, r.jsxs)("div", {
-                                                    className:
-                                                        "relative bg-[#FFEFE1] w-screen mx-auto text-center",
-                                                    children: [
-                                                        (0, r.jsx)("img", {
-                                                            className:
-                                                                "absolute desktop:-top-[150px] llaptop:-top-[100px] h-auto w-screen",
-                                                            src: ie
-                                                                ? "../static/images/border_creme_spray.svg"
-                                                                : "../static/images/creamy_border_skull.svg",
-                                                        }),
-                                                        (0, r.jsx)("h2", {
-                                                            className:
-                                                                "text-[49px] font-bold font-drukwerk relative desktop:pt-[330px] pt-[250px]",
-                                                            children:
-                                                                "CORE YIN",
-                                                        }),
-                                                        (0, r.jsx)("h2", {
-                                                            className:
-                                                                "text-[49px] font-bold font-drukwerk relative",
-                                                            children:
-                                                                "YANG GANG",
-                                                        }),
-                                                        (0, r.jsx)("div", {
-                                                            className:
-                                                                "relative bg-[#FFEFE1] h-auto w-[80%] pt-[80px] mx-auto",
-                                                            children: (0,
-                                                            r.jsxs)("div", {
-                                                                className:
-                                                                    " h-full w-full z-[21]",
-                                                                children: [
-                                                                    (0, r.jsxs)(
-                                                                        "div",
-                                                                        {
-                                                                            className:
-                                                                                "h-auto w-full flex flex-row justify-center",
-                                                                            children:
-                                                                                [
-                                                                                    (0,
-                                                                                    r.jsx)(
-                                                                                        "a",
-                                                                                        {
-                                                                                            href: "https://twitter.com/Nomad_Eth",
-                                                                                            rel: "noreferrer",
-                                                                                            target: "_blank",
-                                                                                            className:
-                                                                                                "cursor-pointer mr-[20px]",
-                                                                                            children:
-                                                                                                (0,
-                                                                                                r.jsxs)(
-                                                                                                    "div",
-                                                                                                    {
-                                                                                                        className:
-                                                                                                            "w-full max-w-[350px] h-auto max-h-[480px]",
-                                                                                                        children:
-                                                                                                            [
-                                                                                                                (0,
-                                                                                                                r.jsx)(
-                                                                                                                    "img",
-                                                                                                                    {
-                                                                                                                        src: ie
-                                                                                                                            ? "../static/images/nomad_night.png"
-                                                                                                                            : "../static/images/nomad_day.png",
-                                                                                                                    }
-                                                                                                                ),
-                                                                                                                " ",
-                                                                                                            ],
-                                                                                                    }
-                                                                                                ),
-                                                                                        }
-                                                                                    ),
-                                                                                    (0,
-                                                                                    r.jsx)(
-                                                                                        "a",
-                                                                                        {
-                                                                                            href: "https://twitter.com/KryptoPal_",
-                                                                                            rel: "noreferrer",
-                                                                                            target: "_blank",
-                                                                                            className:
-                                                                                                "cursor-pointer mr-[20px]",
-                                                                                            children:
-                                                                                                (0,
-                                                                                                r.jsxs)(
-                                                                                                    "div",
-                                                                                                    {
-                                                                                                        className:
-                                                                                                            "w-full max-w-[350px] h-auto max-h-[480px]",
-                                                                                                        children:
-                                                                                                            [
-                                                                                                                (0,
-                                                                                                                r.jsx)(
-                                                                                                                    "img",
-                                                                                                                    {
-                                                                                                                        src: ie
-                                                                                                                            ? "../static/images/kp_night.png"
-                                                                                                                            : "../static/images/kp_day.png",
-                                                                                                                    }
-                                                                                                                ),
-                                                                                                                " ",
-                                                                                                            ],
-                                                                                                    }
-                                                                                                ),
-                                                                                        }
-                                                                                    ),
-                                                                                    (0,
-                                                                                    r.jsx)(
-                                                                                        "a",
-                                                                                        {
-                                                                                            href: "http://twitter.com/MaisonGhost",
-                                                                                            rel: "noreferrer",
-                                                                                            target: "_blank",
-                                                                                            className:
-                                                                                                "cursor-pointer mr-[20px]",
-                                                                                            children:
-                                                                                                (0,
-                                                                                                r.jsxs)(
-                                                                                                    "div",
-                                                                                                    {
-                                                                                                        className:
-                                                                                                            "w-full max-w-[350px] h-auto max-h-[480px]",
-                                                                                                        children:
-                                                                                                            [
-                                                                                                                (0,
-                                                                                                                r.jsx)(
-                                                                                                                    "img",
-                                                                                                                    {
-                                                                                                                        src: ie
-                                                                                                                            ? "../static/images/maison_night.png"
-                                                                                                                            : "../static/images/maison_day.png",
-                                                                                                                    }
-                                                                                                                ),
-                                                                                                                " ",
-                                                                                                            ],
-                                                                                                    }
-                                                                                                ),
-                                                                                        }
-                                                                                    ),
-                                                                                    (0,
-                                                                                    r.jsx)(
-                                                                                        "a",
-                                                                                        {
-                                                                                            href: "https://twitter.com/4422HM",
-                                                                                            rel: "noreferrer",
-                                                                                            target: "_blank",
-                                                                                            className:
-                                                                                                "cursor-pointer ",
-                                                                                            children:
-                                                                                                (0,
-                                                                                                r.jsxs)(
-                                                                                                    "div",
-                                                                                                    {
-                                                                                                        className:
-                                                                                                            "w-full max-w-[350px] h-auto max-h-[480px]",
-                                                                                                        children:
-                                                                                                            [
-                                                                                                                (0,
-                                                                                                                r.jsx)(
-                                                                                                                    "img",
-                                                                                                                    {
-                                                                                                                        src: ie
-                                                                                                                            ? "../static/images/4422_night.png"
-                                                                                                                            : "../static/images/4422_day.png",
-                                                                                                                    }
-                                                                                                                ),
-                                                                                                                " ",
-                                                                                                            ],
-                                                                                                    }
-                                                                                                ),
-                                                                                        }
-                                                                                    ),
-                                                                                    (0,
-                                                                                    r.jsx)(
-                                                                                        "a",
-                                                                                        {
-                                                                                            href: "https://twitter.com/AvaIanche15",
-                                                                                            rel: "noreferrer",
-                                                                                            target: "_blank",
-                                                                                            className:
-                                                                                                "cursor-pointer mr-[20px]",
-                                                                                            children:
-                                                                                                (0,
-                                                                                                r.jsxs)(
-                                                                                                    "div",
-                                                                                                    {
-                                                                                                        className:
-                                                                                                            "w-full max-w-[350px] h-auto max-h-[480px]",
-                                                                                                        children:
-                                                                                                            [
-                                                                                                                (0,
-                                                                                                                r.jsx)(
-                                                                                                                    "img",
-                                                                                                                    {
-                                                                                                                        src: ie
-                                                                                                                            ? "../static/images/ava_night.png"
-                                                                                                                            : "../static/images/ava_day.png",
-                                                                                                                    }
-                                                                                                                ),
-                                                                                                                " ",
-                                                                                                            ],
-                                                                                                    }
-                                                                                                ),
-                                                                                        }
-                                                                                    ),
-                                                                                ],
-                                                                        }
-                                                                    ),
-                                                                    (0, r.jsxs)(
-                                                                        "div",
-                                                                        {
-                                                                            className:
-                                                                                "h-auto w-[80%] mx-auto flex flex-row mt-[20px] justify-center",
-                                                                            children:
-                                                                                [
-                                                                                    (0,
-                                                                                    r.jsx)(
-                                                                                        "a",
-                                                                                        {
-                                                                                            href: "https://twitter.com/KRD_official_",
-                                                                                            rel: "noreferrer",
-                                                                                            target: "_blank",
-                                                                                            className:
-                                                                                                "cursor-pointer mr-[20px]",
-                                                                                            children:
-                                                                                                (0,
-                                                                                                r.jsxs)(
-                                                                                                    "div",
-                                                                                                    {
-                                                                                                        className:
-                                                                                                            "w-full max-w-[350px] h-auto max-h-[480px]",
-                                                                                                        children:
-                                                                                                            [
-                                                                                                                (0,
-                                                                                                                r.jsx)(
-                                                                                                                    "img",
-                                                                                                                    {
-                                                                                                                        src: ie
-                                                                                                                            ? "../static/images/krd_night.png"
-                                                                                                                            : "../static/images/krd_day.png",
-                                                                                                                    }
-                                                                                                                ),
-                                                                                                                " ",
-                                                                                                            ],
-                                                                                                    }
-                                                                                                ),
-                                                                                        }
-                                                                                    ),
-                                                                                    (0,
-                                                                                    r.jsx)(
-                                                                                        "a",
-                                                                                        {
-                                                                                            href: "https://twitter.com/Shiniga96",
-                                                                                            rel: "noreferrer",
-                                                                                            target: "_blank",
-                                                                                            className:
-                                                                                                "cursor-pointer mr-[20px]",
-                                                                                            children:
-                                                                                                (0,
-                                                                                                r.jsxs)(
-                                                                                                    "div",
-                                                                                                    {
-                                                                                                        className:
-                                                                                                            "w-full max-w-[350px] h-auto max-h-[480px]",
-                                                                                                        children:
-                                                                                                            [
-                                                                                                                (0,
-                                                                                                                r.jsx)(
-                                                                                                                    "img",
-                                                                                                                    {
-                                                                                                                        src: ie
-                                                                                                                            ? "../static/images/shini_night.png"
-                                                                                                                            : "../static/images/shini_day.png",
-                                                                                                                    }
-                                                                                                                ),
-                                                                                                                " ",
-                                                                                                            ],
-                                                                                                    }
-                                                                                                ),
-                                                                                        }
-                                                                                    ),
-                                                                                    (0,
-                                                                                    r.jsx)(
-                                                                                        "a",
-                                                                                        {
-                                                                                            href: "https://twitter.com/louistheguy02",
-                                                                                            rel: "noreferrer",
-                                                                                            target: "_blank",
-                                                                                            className:
-                                                                                                "cursor-pointer mr-[20px]",
-                                                                                            children:
-                                                                                                (0,
-                                                                                                r.jsxs)(
-                                                                                                    "div",
-                                                                                                    {
-                                                                                                        className:
-                                                                                                            "w-full max-w-[350px] h-auto max-h-[480px]",
-                                                                                                        children:
-                                                                                                            [
-                                                                                                                (0,
-                                                                                                                r.jsx)(
-                                                                                                                    "img",
-                                                                                                                    {
-                                                                                                                        src: ie
-                                                                                                                            ? "../static/images/louis_night.png"
-                                                                                                                            : "../static/images/louis_day.png",
-                                                                                                                    }
-                                                                                                                ),
-                                                                                                                " ",
-                                                                                                            ],
-                                                                                                    }
-                                                                                                ),
-                                                                                        }
-                                                                                    ),
-                                                                                    (0,
-                                                                                    r.jsx)(
-                                                                                        "a",
-                                                                                        {
-                                                                                            href: "https://twitter.com/mixartmarquez",
-                                                                                            rel: "noreferrer",
-                                                                                            target: "_blank",
-                                                                                            className:
-                                                                                                "cursor-pointer mr-[20px]",
-                                                                                            children:
-                                                                                                (0,
-                                                                                                r.jsxs)(
-                                                                                                    "div",
-                                                                                                    {
-                                                                                                        className:
-                                                                                                            "w-full max-w-[350px] h-auto max-h-[480px]",
-                                                                                                        children:
-                                                                                                            [
-                                                                                                                (0,
-                                                                                                                r.jsx)(
-                                                                                                                    "img",
-                                                                                                                    {
-                                                                                                                        src: ie
-                                                                                                                            ? "../static/images/mix_night.png"
-                                                                                                                            : "../static/images/mix_day.png",
-                                                                                                                    }
-                                                                                                                ),
-                                                                                                                " ",
-                                                                                                            ],
-                                                                                                    }
-                                                                                                ),
-                                                                                        }
-                                                                                    ),
-                                                                                ],
-                                                                        }
-                                                                    ),
-                                                                    (0, r.jsxs)(
-                                                                        "div",
-                                                                        {
-                                                                            className:
-                                                                                "h-auto w-[80%] mx-auto flex flex-row mt-[20px] justify-center",
-                                                                            children:
-                                                                                [
-                                                                                    (0,
-                                                                                    r.jsx)(
-                                                                                        "a",
-                                                                                        {
-                                                                                            href: "https://twitter.com/LitskiNFT",
-                                                                                            rel: "noreferrer",
-                                                                                            target: "_blank",
-                                                                                            className:
-                                                                                                "cursor-pointer mr-[20px]",
-                                                                                            children:
-                                                                                                (0,
-                                                                                                r.jsxs)(
-                                                                                                    "div",
-                                                                                                    {
-                                                                                                        className:
-                                                                                                            "w-full max-w-[350px] h-auto max-h-[480px]",
-                                                                                                        children:
-                                                                                                            [
-                                                                                                                (0,
-                                                                                                                r.jsx)(
-                                                                                                                    "img",
-                                                                                                                    {
-                                                                                                                        src: ie
-                                                                                                                            ? "../static/images/litski_night.png"
-                                                                                                                            : "../static/images/litski_day.png",
-                                                                                                                    }
-                                                                                                                ),
-                                                                                                                " ",
-                                                                                                            ],
-                                                                                                    }
-                                                                                                ),
-                                                                                        }
-                                                                                    ),
-                                                                                    (0,
-                                                                                    r.jsx)(
-                                                                                        "a",
-                                                                                        {
-                                                                                            href: "https://twitter.com/SimplychaoticYt",
-                                                                                            rel: "noreferrer",
-                                                                                            target: "_blank",
-                                                                                            className:
-                                                                                                "cursor-pointer mr-[20px]",
-                                                                                            children:
-                                                                                                (0,
-                                                                                                r.jsxs)(
-                                                                                                    "div",
-                                                                                                    {
-                                                                                                        className:
-                                                                                                            "w-full max-w-[350px] h-auto max-h-[480px]",
-                                                                                                        children:
-                                                                                                            [
-                                                                                                                (0,
-                                                                                                                r.jsx)(
-                                                                                                                    "img",
-                                                                                                                    {
-                                                                                                                        src: ie
-                                                                                                                            ? "../static/images/chaotic_night.png"
-                                                                                                                            : "../static/images/chaotic_day.png",
-                                                                                                                    }
-                                                                                                                ),
-                                                                                                                " ",
-                                                                                                            ],
-                                                                                                    }
-                                                                                                ),
-                                                                                        }
-                                                                                    ),
-                                                                                    (0,
-                                                                                    r.jsx)(
-                                                                                        "a",
-                                                                                        {
-                                                                                            href: "https://twitter.com/Xirynx",
-                                                                                            rel: "noreferrer",
-                                                                                            target: "_blank",
-                                                                                            className:
-                                                                                                "cursor-pointer mr-[20px]",
-                                                                                            children:
-                                                                                                (0,
-                                                                                                r.jsxs)(
-                                                                                                    "div",
-                                                                                                    {
-                                                                                                        className:
-                                                                                                            "w-full max-w-[350px] h-auto max-h-[480px]",
-                                                                                                        children:
-                                                                                                            [
-                                                                                                                (0,
-                                                                                                                r.jsx)(
-                                                                                                                    "img",
-                                                                                                                    {
-                                                                                                                        src: ie
-                                                                                                                            ? "../static/images/x_night.png"
-                                                                                                                            : "../static/images/X_day.png",
-                                                                                                                    }
-                                                                                                                ),
-                                                                                                                " ",
-                                                                                                            ],
-                                                                                                    }
-                                                                                                ),
-                                                                                        }
-                                                                                    ),
-                                                                                ],
-                                                                        }
-                                                                    ),
-                                                                ],
-                                                            }),
-                                                        }),
-                                                    ],
-                                                }),
+                                                
                                                 (0, r.jsx)("div", {
                                                     className:
                                                         "relative bg-[#FFEFE1] w-screen pb-[300px] desktop:-mb-[200px] -mb-[119px] mx-auto text-center",
@@ -2235,24 +1765,6 @@
                                                                         className:
                                                                             "absolute bottom-[15px] w-[126px] h-[94px] left-0 ",
                                                                         src: "../static/images/spraypaint_red.svg",
-                                                                    }
-                                                                ),
-                                                                (0, r.jsx)(
-                                                                    "h2",
-                                                                    {
-                                                                        className:
-                                                                            "text-[49px] font-bold font-drukwerk relative pt-[130px] ",
-                                                                        children:
-                                                                            "YYG NEEDS MORE",
-                                                                    }
-                                                                ),
-                                                                (0, r.jsx)(
-                                                                    "h2",
-                                                                    {
-                                                                        className:
-                                                                            "text-[49px] font-bold font-drukwerk relative",
-                                                                        children:
-                                                                            "FOOTSOLDIERS",
                                                                     }
                                                                 ),
                                                             ],
@@ -2311,23 +1823,7 @@
                                                                                     "relative md:w-[300px] md:h-[60px] text-[#fff] w-0 h-0 ml-[25px] text-center text-[30px] flex flex-row",
                                                                                 children:
                                                                                     [
-                                                                                        (0,
-                                                                                        r.jsx)(
-                                                                                            "div",
-                                                                                            {
-                                                                                                children:
-                                                                                                    (0,
-                                                                                                    r.jsx)(
-                                                                                                        "p",
-                                                                                                        {
-                                                                                                            className:
-                                                                                                                "mt-[10px] md:opacity-100 opacity-0",
-                                                                                                            children:
-                                                                                                                "SOLD OUT",
-                                                                                                        }
-                                                                                                    ),
-                                                                                            }
-                                                                                        ),
+                                                                                        
                                                                                         (0,
                                                                                         r.jsx)(
                                                                                             "a",
@@ -2336,17 +1832,7 @@
                                                                                                     "mx-auto mt-[5px]",
                                                                                                 href: "https://opensea.io/collection/projectyinyang",
                                                                                                 rel: "noreferrer",
-                                                                                                target: "_blank",
-                                                                                                children:
-                                                                                                    (0,
-                                                                                                    r.jsx)(
-                                                                                                        "img",
-                                                                                                        {
-                                                                                                            src: "../static/images/OS.svg",
-                                                                                                            className:
-                                                                                                                "cursor-pointer hover:scale-105 h-[40px] w-[50px] my-auto ",
-                                                                                                        }
-                                                                                                    ),
+                                                                                                target: "_blank"
                                                                                             }
                                                                                         ),
                                                                                     ],
@@ -2354,65 +1840,6 @@
                                                                         ),
                                                                 }),
                                                             }),
-                                                        }),
-                                                    ],
-                                                }),
-                                                (0, r.jsxs)("div", {
-                                                    className:
-                                                        "relative w-screen mx-auto text-center",
-                                                    children: [
-                                                        (0, r.jsx)("img", {
-                                                            className:
-                                                                "absolute bottom-0 h-auto w-[65%] left-0 ",
-                                                            src: "../static/images/bridge.png",
-                                                        }),
-                                                        (0, r.jsx)("h2", {
-                                                            className:
-                                                                "text-[49px] bg-[#FFEFE1] font-bold font-drukwerk relative pt-[400px] ",
-                                                            children:
-                                                                "WHAT DO WE KNOW",
-                                                        }),
-                                                        (0, r.jsx)("h2", {
-                                                            className:
-                                                                "text-[49px] bg-[#FFEFE1] font-bold font-drukwerk relative",
-                                                            children:
-                                                                "ABOUT YYG?",
-                                                        }),
-                                                        (0, r.jsx)("img", {
-                                                            className:
-                                                                "absolute -top-[5px] h-auto w-screen ",
-                                                            src: ie
-                                                                ? "../static/images/border_dark_night.png"
-                                                                : "../static/images/border_red_.png",
-                                                        }),
-                                                        (0, r.jsx)("div", {
-                                                            className:
-                                                                "bg-[#FFEFE1] w-full ",
-                                                            children: (0,
-                                                            r.jsx)("img", {
-                                                                className:
-                                                                    "relative h-auto w-[80%] pt-[80px] pb-[20px] mx-auto",
-                                                                src: ie
-                                                                    ? "../static/images/bulletin_board_nightshade.png"
-                                                                    : "../static/images/bulletin_board_day.png",
-                                                            }),
-                                                        }),
-                                                        (0, r.jsx)("div", {
-                                                            className:
-                                                                "bg-[#FFEFE1] w-full pt-[90px] pb-[450px]",
-                                                            children: (0,
-                                                            r.jsx)("img", {
-                                                                className:
-                                                                    "absolute max-w-[1300px] left-[50%] -translate-x-1/2 w-full h-auto",
-                                                                src: "../static/images/bulletin_banner_desktop.png",
-                                                            }),
-                                                        }),
-                                                        (0, r.jsx)("img", {
-                                                            className:
-                                                                "absolute bottom-0 h-auto w-screen ",
-                                                            src: ie
-                                                                ? "../static/images/border_black.svg"
-                                                                : "../static/images/border_red.svg",
                                                         }),
                                                     ],
                                                 }),
@@ -2434,12 +1861,9 @@
                                                             className:
                                                                 "cursor-pointer",
                                                             children: (0,
-                                                            r.jsx)("img", {
+                                                            r.jsx)("p", {
                                                                 className:
-                                                                    "max-w-[15%] w-auto mx-auto pt-[130px] pb-[130px] h-auto",
-                                                                src: ie
-                                                                    ? "../static/images/shadowlabs_night.png"
-                                                                    : "../static/images/shadowlabs_day.png",
+                                                                    "max-w-[15%] w-auto mx-auto pt-[130px] pb-[130px] h-auto"
                                                             }),
                                                         }),
                                                     ],
@@ -2484,8 +1908,8 @@
                                                                             ),
                                                                         children:
                                                                             ie
-                                                                                ? "NIGHTSHADE-XZ45"
-                                                                                : "JOIN THE REBELLION",
+                                                                                ? "YIN YANG GANG"
+                                                                                : "YIN YANG GANG",
                                                                     }
                                                                 ),
                                                             ],
@@ -2505,7 +1929,7 @@
                                                                                       className:
                                                                                           "text-[12px] mb-[30px] font-drukwerk",
                                                                                       children:
-                                                                                          "NIGHTSHADE-XZ45 IS A COMBAT DRUG.",
+                                                                                          "YIN YANG GANG IS A COMBAT DRUG.",
                                                                                   }
                                                                               ),
                                                                               (0,
@@ -2535,7 +1959,7 @@
                                                                                       className:
                                                                                           "mb-[13px] text-[11px] font-roboto font-normal",
                                                                                       children:
-                                                                                          "Now you know the score, my question is - you want in?",
+                                                                                          "  ",
                                                                                   }
                                                                               ),
                                                                               (0,
@@ -2583,7 +2007,7 @@
                                                                                           "text-black text-[12px] mb-[30px] font-drukwerk",
                                                                                       children:
                                                                                           [
-                                                                                              "SLAVERY OR REVOLUTION? ",
+                                                                                              "YIN OR YANG? ",
                                                                                               (0,
                                                                                               r.jsx)(
                                                                                                   "br",
@@ -2609,7 +2033,7 @@
                                                                                       className:
                                                                                           "font-extrabold text-[12px] mb-[13px] font-roboto",
                                                                                       children:
-                                                                                          "We've been slaves to the regime for too long. It's time to break the cycle.",
+                                                                                          "YinYang Token (YINYANG) is a cryptocurrency created to bring a helping hand for people who are less fortunate then others. ",
                                                                                   }
                                                                               ),
                                                                               (0,
@@ -2619,7 +2043,7 @@
                                                                                       className:
                                                                                           "font-extrabold text-[12px] mb-[13px] font-roboto",
                                                                                       children:
-                                                                                          "We live in this dark, dirty city - always being watched, never truly free. We got nothin to do and no-one to believe in but ourselves. There's curfews, gettin roughed up and stripped down for no reason. We get too loud, they make us disappear. This isn't order; it's oppression.",
+                                                                                          "Buying YinYang (YNYG) is connecting Yin with Yang. We will balance liquidity between our holders and people who are less fortunate. Our goal is to make everybody smile. We cannot solve all their problems, but perhaps we can make life more comfortable for those in need.",
                                                                                   }
                                                                               ),
                                                                               (0,
@@ -2629,7 +2053,7 @@
                                                                                       className:
                                                                                           "mb-[13px] font-normal text-[11px] font-roboto",
                                                                                       children:
-                                                                                          "During the daytime we do what we can. We ride, we make music, we use the walls as our canvas - see if we can breathe some life back into this hellhole. And in the night - well. We know about the darkness too.",
+                                                                                          "✅ 0% BUY / SELL TAX FOREVER✅<br/> RENOUNCED CONTRACT ON LAUNCH <br/> ✅ NO TEAM TOKEN <br/>✅ SAFU CONTRACT<br/>✅ LP LOCKED",
                                                                                   }
                                                                               ),
                                                                               (0,
@@ -2639,7 +2063,7 @@
                                                                                       className:
                                                                                           "mb-[13px] font-normal text-[11px] font-roboto",
                                                                                       children:
-                                                                                          "Nightshade-XZ45. That's the key to it all. And we're getting organised, moving it through the entire city. We need foot soldiers. We'll take any recruits we know are dedicated to the cause. It's time to bring some light back to this city. Fight a little fire with fire.",
+                                                                                          " ",
                                                                                   }
                                                                               ),
                                                                               (0,
@@ -2649,7 +2073,7 @@
                                                                                       className:
                                                                                           "mb-[13px] text-[11px] font-roboto font-normal",
                                                                                       children:
-                                                                                          "Now you know the score, my question is - you want in?",
+                                                                                          "  ",
                                                                                   }
                                                                               ),
                                                                               (0,
